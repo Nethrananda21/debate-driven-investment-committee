@@ -1,0 +1,5 @@
+semantic-kernel>=1.37,<2
+scikit-learn>=1.4,<2
+pypdf>=5,<7
+python-dotenv>=1,<2
+streamlit>=1.40,<2
